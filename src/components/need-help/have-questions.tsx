@@ -26,7 +26,7 @@ const HaveQuestions = () => {
     >
       <div className="container flex aspect-video flex-col justify-end gap-3 pb-5 text-white md:h-96 md:justify-center md:pb-0">
         <h1 className="max-w-lg text-lg font-semibold md:text-3xl">
-          Have a question or need assistance? We're here to help.
+          Have a question or need assistance? We&apos;re here to help.
         </h1>
         <Button className="w-fit rounded-lg bg-[#2475EE] text-sm hover:bg-[#2475EE]/70 md:text-base">
           Call 14646

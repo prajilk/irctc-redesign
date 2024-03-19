@@ -82,7 +82,7 @@ export const ImagesSlider = ({
       window.removeEventListener("keydown", handleKeyDown);
       clearInterval(interval);
     };
-  }, []);
+  }, [loadImages, autoplay, handleNext, handlePrevious]);
 
   const slideVariants = {
     initial: {

@@ -13,9 +13,9 @@ const HolidayCard = () => {
           sizes="(max-width: 768px) 48px, (max-width: 1200px) 50vw, 33vw"
         />
       </div>
-      <h4 className="text-xl text-white">Maharajas' Express</h4>
+      <h4 className="text-xl text-white">Maharajas&apos; Express</h4>
       <p className="text-center text-xs text-[#ADADAD]">
-        Redefining Royalty, Luxury and Comfort, Maharajas' express takes
+        Redefining Royalty, Luxury and Comfort, Maharajas&apos; express takes
       </p>
       <Button
         className="rounded-lg bg-[#2475EE] hover:bg-[#2475EE]/70"
